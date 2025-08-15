@@ -53,5 +53,5 @@
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ajibike-abdulqayyum-12920b239/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Ambaaq-Ajibike)
