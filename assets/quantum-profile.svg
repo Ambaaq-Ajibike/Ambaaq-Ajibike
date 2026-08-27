@@ -1,0 +1,30 @@
+<svg width="1200" height="340" viewBox="0 0 1200 340" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Abdulqayyum Ajibike — Classical Software Engineer</title>
+  <desc id="desc">Profile banner with a stylised Bloch sphere and a classical-to-quantum theme.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="340" gradientUnits="userSpaceOnUse"><stop stop-color="#070B1A"/><stop offset=".52" stop-color="#11143A"/><stop offset="1" stop-color="#260D3E"/></linearGradient>
+    <linearGradient id="q" x1="830" y1="60" x2="1080" y2="285" gradientUnits="userSpaceOnUse"><stop stop-color="#22D3EE"/><stop offset=".52" stop-color="#8B5CF6"/><stop offset="1" stop-color="#F472B6"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#7C3AED" stop-opacity=".3"/><stop offset="1" stop-color="#7C3AED" stop-opacity="0"/></radialGradient>
+    <clipPath id="clip"><circle cx="960" cy="170" r="112"/></clipPath>
+  </defs>
+  <rect width="1200" height="340" rx="22" fill="url(#bg)"/>
+  <circle cx="960" cy="170" r="166" fill="url(#glow)"/>
+  <g opacity=".14" stroke="#A78BFA"><path d="M0 56H1200M0 113H1200M0 170H1200M0 227H1200M0 284H1200"/><path d="M60 0V340M120 0V340M180 0V340M240 0V340M300 0V340M360 0V340M420 0V340M480 0V340M540 0V340M600 0V340M660 0V340M720 0V340"/></g>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="70" y="98" fill="#C4B5FD" font-size="17" font-weight="600" letter-spacing="3">CLASSICAL → QUANTUM</text>
+    <text x="70" y="158" fill="white" font-size="43" font-weight="700">Abdulqayyum Ajibike</text>
+    <text x="70" y="202" fill="#D1D5DB" font-size="23">Classical Software Engineer</text>
+    <text x="70" y="241" fill="#94A3B8" font-size="17">Software Architecture · Algorithms · AI · Mathematics · Quantum Computing</text>
+    <text x="70" y="284" fill="#67E8F9" font-size="15" font-family="Consolas,monospace">|ψ⟩ = α|0⟩ + β|1⟩</text>
+  </g>
+  <g>
+    <circle cx="960" cy="170" r="112" stroke="url(#q)" stroke-width="2.5"/>
+    <ellipse cx="960" cy="170" rx="112" ry="38" stroke="#67E8F9" stroke-opacity=".68" stroke-width="1.5"/>
+    <ellipse cx="960" cy="170" rx="38" ry="112" stroke="#C4B5FD" stroke-opacity=".55" stroke-width="1.5" transform="rotate(-28 960 170)"/>
+    <g clip-path="url(#clip)" opacity=".3"><path d="M824 244L1090 96M830 255L1096 107" stroke="#F9A8D4"/></g>
+    <path d="M960 170L1019 87M1019 87L1015 101M1019 87L1005 90" stroke="white" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="960" cy="170" r="5" fill="#22D3EE"/><circle cx="1019" cy="87" r="4" fill="#FDF2F8"/>
+    <g fill="#CBD5E1" font-family="Segoe UI,Arial,sans-serif" font-size="14"><text x="953" y="42">|0⟩</text><text x="953" y="318">|1⟩</text><text x="1084" y="176">x</text><text x="839" y="176">−x</text><text x="1027" y="80" fill="#FBCFE8">|ψ⟩</text></g>
+  </g>
+  <g fill="#22D3EE"><circle cx="746" cy="70" r="2"/><circle cx="785" cy="283" r="2"/><circle cx="1132" cy="58" r="2"/><circle cx="1125" cy="270" r="2"/></g>
+</svg>
